@@ -1,0 +1,4 @@
+Checkpoint 0 0 0
+Checkpoint 10 0 120
+Checkpoint 25 0 56
+Checkpoint 15 0 -120
